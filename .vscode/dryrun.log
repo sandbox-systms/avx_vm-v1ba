@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sandbox/avx_vm'
+make: Leaving directory '/home/sandbox/avx_vm'
+ 
+make: *** No targets.  Stop.
+
