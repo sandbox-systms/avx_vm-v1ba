@@ -1,9 +1,9 @@
 ## AVX VM
+---
+Pequena máquina virtual com compilador e ISA própria.
 
->>> Pequena máquina virtual com compilador e ISA própria.
----
-Compilação 
+>>>Compilação :
 make 
----
-Executar
+
+>>>Executar :
 ./avx_vm
